@@ -9,6 +9,8 @@ A simple calculator web application with keyboard input functionality. This proj
 - Clear button to reset the calculator.
 - Simple, user-friendly interface.
 - Responsive design.
+## Live Demo
+https://barathkumark2612.github.io/Online-Calculator/
 
 ## Screenshots
 
